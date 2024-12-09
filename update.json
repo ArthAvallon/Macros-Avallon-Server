@@ -4,8 +4,8 @@
     "pub_date": "2024-12-08T12:00:00Z",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQmdkVzM1MzFoV2lkQzIyZ3VodlRrOHdMZUlzdXZXWUNNWDhvcWoySC9LZUgyNUFVRUhqS0xoZDh4dTJobG12QlhQcXNJVEp1K1JmanJ5a1lTbGZmODUzckVWMGNYU0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMzNjcyNzk1CWZpbGU6TWFjcm9BdmFsbG9uXzAuMS4wX3g2NC1zZXR1cC5uc2lzLnppcApNak1XcHlwVjZvWEVPL0gzeVA4TVBPbSt2eXlyV3N6dXY4cXZFcG9VSFhtb1QzSnpxYnU2QzljQjhROVZCVk11NU5mTkZ6bTN4TlRUY2llQ2hLcGRBQT09Cg==",
-        "url": "https://github.com/ArthAvallon/Macros-Avallon/releases/download/v1.0.0/MacroAvallon_0.1.0_x64-setup.nsis.zip"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQmdkVzM1MzFoV212ellRTk9YYUY0N1dETyt1QURERkZIVU1KeE1sYU9FU1lvanRnVWk1TlhraHUwWlJ2RVlkYjBIRHFycWdkR2NXbmpXOEFsdlRhWHVzb29BckVMbVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMzNzc3NzA3CWZpbGU6TWFjcm9BdmFsbG9uXzEuMC4xX3g2NC1zZXR1cC5uc2lzLnppcAplYVBscXZMWDdmSHA2ZDdwYlM3L29QZFVSbkVMMkM3dkd5Zi9MMm8rMk9pMW13Q0s1N1hHaGgyZUgwWm8xRWxWZ0tmTm95eHFpRmZpWmF0MlFJVVdDUT09Cg==",
+        "url": "https://github.com/ArthAvallon/Macros-Avallon/releases/download/v1.0.0/MacroAvallon_1.0.1_x64-setup.nsis.zip"
       }
     }
 }
