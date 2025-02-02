@@ -1,11 +1,11 @@
 {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "notes": "Descrição da atualização",
     "pub_date": "2024-12-08T12:00:00Z",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRckcxOWhabEFWNTBmZGRVL0xPZG9PQ0h3U3k0dVg3L1pqMGp5RC9rNm0wTm1YTHRhRS9kY2ZyUThyMjhGRXd3N2FTYkZkRUdNUzRPUXhjeE80V1BOaXJoZzVLc0I1RUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM4NTIwNDQzCWZpbGU6TWFjcm9BdmFsbG9uXzEuMC4yX3g2NC1zZXR1cC5uc2lzLnppcApHQ2Yzbk92V2VUUkdqRlYyT0RQTkhSRlFLbEZMcDFSMXFUZ2l5c2x4eTlmbnk3cU5MMDYzQ3gza09SdkpOTUxWdTA5MUk1UC9ZdHZUUWZUYW0zajZCQT09Cg==",
-        "url": "https://github.com/ArthAvallon/Macros-Avallon-Server/releases/download/v1.0.2/MacroAvallon_1.0.2_x64-setup.nsis.zip"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOWo0T0FaL3dKdW15akxVektqcGIyY0phd3dmMlRkM1Rlc0dLWHdwQkw2VHlnaVBVVytRRzFaLzNkZnZUd0VjN3AyZERkY1BsWVg1V1d5dWgwaFg0RWJsNmlRZXNGTUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM4NTM3MTYwCWZpbGU6TWFjcm9BdmFsbG9uXzEuMC4zX3g2NC1zZXR1cC5uc2lzLnppcApSalVQMUloUmZJRkxDUEtwU2VFR2dQNDRtdDdEaUZIN1ZZeExDUk1LSXg3QjVlcEV4eElwdU1CaVVJY2laOGVleU04TnphZnoybUpOVU9XcHlPR1pCZz09Cg==",
+        "url": "https://github.com/ArthAvallon/Macros-Avallon-Server/releases/download/v1.0.3/MacroAvallon_1.0.3_x64-setup.nsis.zip"
       }
     }
 }
